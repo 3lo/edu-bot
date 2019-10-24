@@ -8,6 +8,3 @@ Commands:
 Requirements:
  - Request-html
  - Discord
- 
-![Game](https://imgur.com/UxPCVD9.png "Game")
-![End](https://i.imgur.com/mhcVpfE.png "End")
